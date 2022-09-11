@@ -1,4 +1,4 @@
-# king-power-click-test
+# employee-directory
 for test skill reactjs with redux
 
 <h2>Install and Run</h2>
